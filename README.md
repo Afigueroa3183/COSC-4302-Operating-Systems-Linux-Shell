@@ -5,6 +5,8 @@ Written in VSCode
 
 Authors: Kaden Carter, Alejandro Figueroa, Jarrett Lumsden
 
+**DESCRIPTION**
+
 This project is a simple shell designed in C-language for use on the Linux OS.
 This was developed as a group for our Operating Systems semester project.
 
