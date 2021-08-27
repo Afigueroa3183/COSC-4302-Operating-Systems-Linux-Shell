@@ -1,4 +1,4 @@
-# 4302-Operating-Systems-Linux-Shell
+# COSC-4302-Operating-Systems-Linux-Shell
 Lamar University Operating Systems Project
 
 Written in VSCode
